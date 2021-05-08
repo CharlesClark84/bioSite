@@ -1,0 +1,31 @@
+h1 {
+  text-align:center;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.carousel-inner > .item > img {
+  width:800px;
+  height:800px;
+  margin: 0 auto;
+}
+
+#port {
+  max-width: 50%;
+  float: right;
+}
+
+#chess {
+    margin:left;
+    max-width: 30%;
+}
+
+.tim {
+  text-align: center;
+}
+
+.left {
+  float:right;
+}
