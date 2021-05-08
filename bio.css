@@ -17,7 +17,7 @@ body {
   float: right;
 }
 
-#chess {
+.chess {
     margin:left;
     max-width: 30%;
 }
@@ -28,4 +28,21 @@ body {
 
 .left {
   float:right;
+  margin-bottom: 125px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#bioInfo {
+  margin: 15px;
 }
