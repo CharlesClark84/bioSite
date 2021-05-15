@@ -29,8 +29,6 @@ body {
 .left {
   float:right;
   margin-bottom: 125px;
-  border: 1px solid grey;
-  border-radius: 5px;
 }
 
 .footer {
@@ -45,4 +43,17 @@ body {
 
 #bioInfo {
   margin: 15px;
+}
+
+.tim {
+  font-size: 20px;
+  border: 2px solid grey;
+  border-radius: 5px;
+  background-color: lightblue;
+padding: 5px;
+}
+
+.tim:hover {
+  background-color: lightyellow;
+  text-decoration: none;
 }
